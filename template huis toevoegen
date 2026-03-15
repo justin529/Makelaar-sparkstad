@@ -1,0 +1,73 @@
+Toevoegen:
+
+<div class="row properties-box">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 pen">
+          <div class="item">
+            <a><img src="[Afbeelding]" alt=""></a>
+            <span class="category">[categorie appartement, losstaande woning, Penthouse ]</span>
+            <h6>[prijs]</h6>
+            <h4><a href="">[Adres]</a></h4>
+            <div class="main-button">
+              <a href="contact.html">Contact</a>
+            </div>
+          </div>
+        </div>
+
+
+
+heel simpel "ctr c" "ctrl v" wat hier boven staatverander deze dingen
+- [Afbeelding]
+- [categorie]
+- [prijs]
+- [adres]
+
+Let op! dit moet je hier veranderen <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 --> pen <-- "></div>
+Doe je dit niet dan werkt je sorteer systeem niet! 
+
+''app'' = appartement
+''los'' = losstaande huisen
+''pen'' = Penthouse
+
+opslaan en klaar het duurtff voordat de website geupdate is!!!!
+
+
+Verwideren verweider alles vanaf de eerste <div> t/m </div> Let op dat je het goed verwiderd inclusief <> anders werkt de website niet meer!!!!! dus:
+
+
+
+hier ---><div class="row properties-box">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 pen">
+          <div class="item">
+            <a><img src="[Afbeelding]" alt=""></a>
+            <span class="category">[categorie appartement, losstaande woning, Penthouse ]</span>
+            <h6>[prijs]</h6>
+            <h4><a href="">[Adres]</a></h4>
+            <div class="main-button">
+              <a href="contact.html">Contact</a>
+            </div>
+          </div>
+        </div> <--- tot hier niet meer niet minder!!
+
+
+
+
+        dit kan later toegevoegd worden sosials
+
+                <div class="col-lg-4 col-md-4">
+          <ul class="social-links">
+            <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://x.com/minthu" target="_blank"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+          </ul>
+        </div>
+
+
+
+
+
+
+
+
+
+
