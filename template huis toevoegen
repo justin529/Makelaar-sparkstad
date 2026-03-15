@@ -3,7 +3,7 @@ Toevoegen:
 <div class="row properties-box">
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 pen">
           <div class="item">
-            <a><img src="[Afbeelding]" alt=""></a>
+            <a><img src="assets/images/[Afbeelding]" alt=""></a>
             <span class="category">[categorie appartement, losstaande woning, Penthouse ]</span>
             <h6>[prijs]</h6>
             <h4><a href="">[Adres]</a></h4>
@@ -38,7 +38,7 @@ Verwideren verweider alles vanaf de eerste <div> t/m </div> Let op dat je het go
 hier ---><div class="row properties-box">
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 pen">
           <div class="item">
-            <a><img src="[Afbeelding]" alt=""></a>
+            <a><img src="assets/images/[Afbeelding]" alt=""></a>
             <span class="category">[categorie appartement, losstaande woning, Penthouse ]</span>
             <h6>[prijs]</h6>
             <h4><a href="">[Adres]</a></h4>
